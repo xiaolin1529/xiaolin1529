@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/xiaolin1529/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm xiaolin <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **SPDB**
 - 🌱 I’m currently learning **SpringCloud**
@@ -16,13 +16,13 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaolin1529/count.svg) vis
 - ⚡ Fun fact: **LOL, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolin1529)](https://github.com/xiaolin1529/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolin1529&layout=compact)](https://github.com/xiaolin1529/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaolin1529&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### DeepLearning  
